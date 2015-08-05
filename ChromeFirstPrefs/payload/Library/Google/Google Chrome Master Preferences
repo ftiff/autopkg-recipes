@@ -15,7 +15,9 @@
     "import_history" : false, 
     "create_all_shortcuts" : true,   
     "do_not_launch_chrome" : true, 
-    "make_chrome_default" : true
+    "make_chrome_default" : true,
+    "import_bookmarks": false,
+    "import_bookmarks_from_file": "/Library/Google/bookmarks_actel01.html"
   }, 
   "first_run_tabs" : [ 
     "http://mail.actelion.com",
