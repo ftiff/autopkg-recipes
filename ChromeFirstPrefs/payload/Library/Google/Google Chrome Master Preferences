@@ -1,0 +1,26 @@
+{ 
+  "homepage" : "http://insite.actelion.com",
+  "homepage_is_newtabpage" : true, 
+  "browser" : { 
+    "show_home_button" : true, 
+    "check_default_browser" : false
+  },
+  "bookmark_bar" : { 
+    "show_on_all_tabs" : true 
+  }, 
+  "distribution" : { 
+    "skip_first_run_ui" : true, 
+    "show_welcome_page" : false, 
+    "import_search_engine" : true, 
+    "import_history" : false, 
+    "create_all_shortcuts" : true,   
+    "do_not_launch_chrome" : true, 
+    "make_chrome_default" : true
+  }, 
+  "first_run_tabs" : [ 
+    "http://mail.actelion.com",
+    "http://insite.actelion.com",
+    "welcome_page", 
+    "new_tab_page" 
+  ] 
+}
